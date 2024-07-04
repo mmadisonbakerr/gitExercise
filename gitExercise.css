@@ -1,5 +1,10 @@
+html {
+    text-align: center;
+}
+
 h1 {
     font-size: 40px;
     text-transform: uppercase;
     text-shadow: 3px 3px lightgray;
 }
+
